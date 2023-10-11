@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="" />
+    <meta property="og:title" content="Hypixel - Home" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="img/logo.png" />
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:site" content="" />
+    <meta property="twitter:creator" content="" />
+
+    <title>Hypixel - Home</title>
+    <link rel="icon" type="image/x-icon" href="favicon.png" />
+    <link rel="canonical" href="" />
+
+    <!-- StyleSheet -->
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  </head>
+
+  <body>
+    <!-- Preloader -->
+    <div id="loader">
+      <div class="preloader-background"></div>
+      <div class="preloader">
+        <img class="center-image" src="img/small-logo.png" draggable="false" alt="Hypixel Logo" />
+        <div class="status">
+          <br />
+          <h1>Loading...</h1>
+          <br />
+          <noscript>Please turn JavaScript on and reload the page.<br /></noscript>
+          You don't have to do anything. You will be redirected to the requested content shortly.
+          <br />
+          Please allow up to few seconds...
+        </div>
+      </div>
+    </div>
+
+    <main id="page">
+      <section id="header">
+        <div class="overlay-color"></div>
+        <div class="overlay"></div>
+        <div class="content">
+          <div class="animate__animated animate__fadeInDown">
+            <img class="logo" src="img/logo.png" draggable="false" alt="Hypixel Logo" />
+          </div>
+          <div class="item animate__animated animate__fadeInUp">
+            <a href="#">
+              <img src="img/forum.png" draggable="false" alt="" />
+              <div class="desc">Forums</div>
+            </a>
+          </div>
+          <div class="item animate__animated animate__fadeInUp">
+            <a href="#">
+              <img src="img/games.png" draggable="false" alt="" />
+              <div class="desc">Games</div>
+            </a>
+          </div>
+          <div class="item animate__animated animate__fadeInUp" alt="">
+            <a href="#">
+              <img src="img/shop.png" draggable="false" />
+              <div class="desc">Store</div>
+            </a>
+          </div>
+          <div class="item animate__animated animate__fadeInUp" alt="">
+            <a href="#">
+              <img src="img/bans.png" draggable="false" />
+              <div class="desc">Bans</div>
+            </a>
+          </div>
+          <div class="item animate__animated animate__fadeInUp" alt="">
+            <a href="#">
+              <img src="img/support.png" draggable="false" />
+              <div class="desc">Support</div>
+            </a>
+          </div>
+          <div class="server-info animate__animated animate__fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s">Join <span id="player-counter">0</span> others on <span id="server-ip">mc.hypixel.net</span> <button id="copyip" class="btn-copy">COPY IP</button></div>
+        </div>
+      </section>
+    </main>
+
+    <!-- JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
