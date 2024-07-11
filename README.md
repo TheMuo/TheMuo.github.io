@@ -30,17 +30,3 @@ $(document).ready(function () {
 
 ## html元素
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>
-## 公式 
-$$
-\begin{Bmatrix}
-   a & b \\
-   c & d
-\end{Bmatrix}
-$$
-$$
-\begin{CD}
-   A @>a>> B \\
-@VbVV @AAcA \\
-   C @= D
-\end{CD}
-$$
