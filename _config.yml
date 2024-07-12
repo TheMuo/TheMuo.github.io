@@ -1,9 +1,7 @@
-name: "TheMuo's blog"
+name: "TheMuo的主页
 description: "翩帆的个人技术博客"
-
 avatar: https://TheMuo.github.io/images/avatar.png
 favicon: https://TheMuo.github.io/images/favicon.ico
-
 navigation:
   - name: 首页
     url: /
@@ -11,9 +9,7 @@ navigation:
     url: /about
   - name: 分类
     url: /tags
-
 paginate: 8
-
 excerpt_separator: <!-- more -->
 
 footer-links:
