@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "零基础小白如何搭建自己的 github.io 个人网站"
+title: "小白搭建自己的github.io网站"
 date:   2024-1-27
 tags: [web]
 comments: true
 author: pianfan
 ---
 
-###### 说明：本教程只针对不了解网站搭建并且想要快速搭建起个人博客的新手，帮助建立网站的平台有很多，有一定网站开发基础的读者可另寻门路
+###### 说明：本教程只针对不了解网站搭建并且想要快速搭建起个人博客的新手
 
 <!-- more -->
 
@@ -25,7 +25,7 @@ author: pianfan
 
 ## Step 0. 准备工作
 
-利用 GitHub Pages 免费获取你自己的网站域名只需要一个先决条件：拥有你自己的 github 账号。如果你目前还没有，可以去 [GitHub 官网](https://github.com)先注册一个。
+利用 GitHub Pages 免费获取你自己的网站域名：拥有你自己的 github 账号。可以去 [GitHub 官网](https://github.com)先注册一个。
 
 ## Step 1. 建立博客仓库
 
