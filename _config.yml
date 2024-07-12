@@ -11,7 +11,7 @@ navigation:
     url: /tags
 paginate: 8
 excerpt_separator: <!-- more -->
-
+# 其他社交平台联系
 footer-links:
   zhihu: 
   email: 2523203097@qq.com
