@@ -2,7 +2,7 @@
 layout: post
 title: "用户手册"
 date:   2024-1-26
-tags: [notice]
+tags: [通知]
 comments: true
 author: pianfan
 ---

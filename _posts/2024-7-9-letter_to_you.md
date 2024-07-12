@@ -2,7 +2,7 @@
 layout: post
 title: "网站的生日"
 date:   2024-7-9
-tags: [notice]
+tags: [通知]
 comments: true
 author: pianfan
 ---
